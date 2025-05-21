@@ -1,0 +1,29 @@
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente de Automatización.csproj.AssemblyReference.cache
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente_de_Automatización.Form1.resources
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente de Automatización.csproj.GenerateResource.cache
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente de Automatización.GeneratedMSBuildEditorConfig.editorconfig
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente de Automatización.AssemblyInfoInputs.cache
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente de Automatización.AssemblyInfo.cs
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente de Automatización.csproj.CoreCompileInputs.cache
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\Agente de Automatización.exe
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\Agente de Automatización.deps.json
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\Agente de Automatización.runtimeconfig.json
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\Agente de Automatización.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\Agente de Automatización.pdb
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente d.B230299D.Up2Date
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente de Automatización.dll
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\refint\Agente de Automatización.dll
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente de Automatización.pdb
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\Agente de Automatización.genruntimeconfig.cache
+C:\Agente de Automatización\Agente de Automatización\obj\Debug\net9.0-windows\ref\Agente de Automatización.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\Microsoft.Office.Interop.PowerPoint.dll
+C:\Agente de Automatización\Agente de Automatización\bin\Debug\net9.0-windows\OFFICE.DLL
